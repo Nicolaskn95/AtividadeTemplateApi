@@ -1,0 +1,6 @@
+{
+  "name": "Technologic - API REST Express & MongoDB",
+  "description": "Sistema com API REST Express.js e MongoDB para gerenciamento dinâmico de conteúdos, autenticação de usuários, controle de imagens e pesquisa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

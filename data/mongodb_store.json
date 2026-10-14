@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "_id": "65f1a1000000000000000001",
+      "nome": "Emerson",
+      "email": "emerson@email.com",
+      "senhaHash": "24c77d0f11f30c9738afe81cfa61de8d52a186cae46d1f01bdc32b2d0e1ef6ae",
+      "telefone": "(15) 99999-9999",
+      "cpf": "000.000.000-00",
+      "avatar": "",
+      "role": "admin",
+      "createdAt": "2026-10-14T21:34:49.655Z",
+      "updatedAt": "2026-10-14T21:34:49.655Z"
+    }
+  ],
+  "contents": [
+    {
+      "_id": "65f1c2000000000000000001",
+      "titulo": "Breaking Bad",
+      "subtitulo": "1x01 - Pilot",
+      "descricao": "Um professor de química do ensino médio diagnosticado com câncer de pulmão inoperável se volta para a fabricação e venda de metanfetamina para garantir o futuro financeiro de sua família.",
+      "categoria": "TELA 01",
+      "imagem": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=800&auto=format&fit=crop&q=80",
+      "ano": 2008,
+      "temporada": 1,
+      "episodio": 1,
+      "duracao": "58 min",
+      "classificacao": "18+",
+      "createdAt": "2026-10-09T21:34:49.655Z",
+      "updatedAt": "2026-10-09T21:34:49.655Z"
+    },
+    {
+      "_id": "65f1c2000000000000000002",
+      "titulo": "Mr. Robot",
+      "subtitulo": "1x01 - eps1.0_hellofriend.mov",
+      "descricao": "Elliot, um jovem engenheiro de cibersegurança que sofre de transtorno de ansiedade social, é recrutado por um misterioso líder hacker para derrubar a maior corporação do mundo.",
+      "categoria": "TELA 02",
+      "imagem": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&auto=format&fit=crop&q=80",
+      "ano": 2015,
+      "temporada": 1,
+      "episodio": 1,
+      "duracao": "65 min",
+      "classificacao": "16+",
+      "createdAt": "2026-10-10T21:34:49.655Z",
+      "updatedAt": "2026-10-10T21:34:49.655Z"
+    },
+    {
+      "_id": "65f1c2000000000000000003",
+      "titulo": "Black Mirror",
+      "subtitulo": "3x01 - Nosedive",
+      "descricao": "Em uma sociedade obcecada por pontuações de redes sociais onde o status pessoal determina o acesso a comodidades, uma mulher tenta impressionar a elite em um casamento luxuoso.",
+      "categoria": "TELA 03",
+      "imagem": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&auto=format&fit=crop&q=80",
+      "ano": 2016,
+      "temporada": 3,
+      "episodio": 1,
+      "duracao": "63 min",
+      "classificacao": "16+",
+      "createdAt": "2026-10-11T21:34:49.655Z",
+      "updatedAt": "2026-10-11T21:34:49.655Z"
+    },
+    {
+      "_id": "65f1c2000000000000000004",
+      "titulo": "Silicon Valley",
+      "subtitulo": "1x01 - Minimum Viable Product",
+      "descricao": "Richard Hendricks desenvolve um revolucionário algoritmo de compressão de dados e precisa decidir entre uma oferta de compra milionária ou financiamento de risco.",
+      "categoria": "TELA 04",
+      "imagem": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop&q=80",
+      "ano": 2014,
+      "temporada": 1,
+      "episodio": 1,
+      "duracao": "30 min",
+      "classificacao": "14+",
+      "createdAt": "2026-10-12T21:34:49.655Z",
+      "updatedAt": "2026-10-12T21:34:49.655Z"
+    },
+    {
+      "_id": "65f1c2000000000000000005",
+      "titulo": "Severance",
+      "subtitulo": "1x01 - Good News About Hell",
+      "descricao": "Mark lidera uma equipe cujas memórias foram cirurgicamente divididas entre sua vida profissional e pessoal nas instalações da misteriosa Lumon Industries.",
+      "categoria": "TELA 05",
+      "imagem": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop&q=80",
+      "ano": 2022,
+      "temporada": 1,
+      "episodio": 1,
+      "duracao": "57 min",
+      "classificacao": "16+",
+      "createdAt": "2026-10-13T21:34:49.655Z",
+      "updatedAt": "2026-10-13T21:34:49.655Z"
+    },
+    {
+      "_id": "65f1c2000000000000000006",
+      "titulo": "Dark",
+      "subtitulo": "1x01 - Secrets",
+      "descricao": "O desaparecimento de duas crianças em uma cidade alemã expõe os relacionamentos fraturados e o passado com quatro famílias ligadas a um mistério temporal.",
+      "categoria": "TELA 01",
+      "imagem": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=800&auto=format&fit=crop&q=80",
+      "ano": 2017,
+      "temporada": 1,
+      "episodio": 1,
+      "duracao": "51 min",
+      "classificacao": "16+",
+      "createdAt": "2026-10-12T21:34:49.655Z",
+      "updatedAt": "2026-10-12T21:34:49.655Z"
+    },
+    {
+      "_id": "65f1c2000000000000000007",
+      "titulo": "Westworld",
+      "subtitulo": "1x01 - The Original",
+      "descricao": "Em um parque temático futurista onde os androides realizam os desejos dos convidados humanos, uma anomalia nos códigos dos anfitriões desencadeia consciência própria.",
+      "categoria": "TELA 02",
+      "imagem": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&auto=format&fit=crop&q=80",
+      "ano": 2016,
+      "temporada": 1,
+      "episodio": 1,
+      "duracao": "68 min",
+      "classificacao": "18+",
+      "createdAt": "2026-10-11T21:34:49.655Z",
+      "updatedAt": "2026-10-11T21:34:49.655Z"
+    }
+  ]
+}
